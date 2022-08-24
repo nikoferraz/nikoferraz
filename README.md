@@ -18,7 +18,7 @@ __Pronouns: He/Him/His__
 
 📫 Contact: me at nickferraz dot com
 
-##Tech I work with:
+## Tech I work with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
