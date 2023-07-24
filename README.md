@@ -1,6 +1,3 @@
-[![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoferraz)](https://github.com/anuraghazra/github-readme-stats)
-
-
 #  Nicholas Ferraz de Oliveira
 __Pronouns: He/Him/His__
 
