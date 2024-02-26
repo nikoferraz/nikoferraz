@@ -7,11 +7,11 @@ __Pronouns: He/Him/His__
 
 - 🔭 I’m currently working on developing the [Pediatric Cancer Data Commons Portal](https://portal.pedscommons.org/login)
 
-- 🌱 I’m currently learning Go programming
+- 🦀 I’m currently learning Rust programming
 
-- 👨‍🏫 I’m a Python code mentor through Exercism.org
+- 👨‍🏫 I’m a Python code mentor through Exercism.org. Check out the [testimonials](https://exercism.org/profiles/NicholasFerraz/testimonials) my mentees wrote.
 
-- ⚡ Fun fact: I speak Portuguese fluently.
+- 🇧🇷 Fun fact: I speak Portuguese fluently.
 
 📫 Contact: me at nickferraz dot com
 
