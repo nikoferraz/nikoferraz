@@ -50,3 +50,5 @@ __Pronouns: He/Him/His__
 ## Projects I contribute to:
 
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+
+<a rel="me" href="https://mastodon.social/@nickferraz">Mastodon</a>
